@@ -1,4 +1,4 @@
-module github.com/Avielyo10/ownershipvoucher-deserializer v0.1.0
+module github.com/Avielyo10/ownershipvoucher-deserializer
 
 go 1.17
 
